@@ -1,4 +1,8 @@
 # Poetic Phrase Generator
 Create AI-generated witty and satirical poetic phrases about your favorite activities and places to visit.
+Built using Scrimba.
 
-To run, install npm and type "http-server" into terminal.
+```
+npm install -g http-server
+http-server
+```
